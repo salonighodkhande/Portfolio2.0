@@ -1,0 +1,197 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing:border-box;
+
+}
+header 
+{
+background-color: #d2f1ed;
+color: #000000;
+text-align: center;
+}
+
+footer
+{
+background-color: #d2f1ed;
+color: #000000;
+align-self: center;
+
+}
+
+
+h2 
+{
+color: #222e41;
+margin-bottom: 15px;
+}
+input 
+{
+width: 100%;
+padding: 12px;
+border : 2px solid #cbff6b;
+border-radius: 8px;
+outline: none;
+transition: 0.3s;
+background: rgba(255, 107, 107, 0.1);
+}    
+
+body 
+{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background: linear-gradient(135deg, #0a0613 0%, #07023a 100%);
+color: #140707;
+line-height: 1.7;
+min-height: 100vh;
+}
+
+body 
+{
+display: block;
+margin: 8px;
+}
+.myclass
+{
+    background: linear-gradient(135deg, #0a0613 0%, #07023a 100%);
+}
+#main 
+{
+  width: 1250px;
+  height:100px; 
+  color: #0c0c0c; 
+  background-color: rgb(171, 219, 211);
+  margin:20px 20px ;
+  border-radius: 20px;
+  padding: 10px;
+ 
+
+}
+
+#about
+{ 
+  width: 1250px;
+  height:150px; 
+  color: #e4d8d8; 
+  margin:20px 20px ;
+  border-radius: 20px;
+  padding: 10px;
+ text-align: center;
+
+}
+
+#name
+{
+    width: 1250px;
+    height:100px; 
+    color: #e4d8d8; 
+    margin:20px 20px ;
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center;
+}
+#module1
+{
+    align-self: center;
+    width:300px;
+    height:100px;
+    background-color: rgb(182, 236, 227);
+    justify-content: center;
+    align-items: center;
+   
+    padding: 10px;
+   
+
+}
+#car0{
+    color: #e2d9d9;
+    text-align: center;
+}
+
+#car1
+{
+   
+    background-color: rgb(205, 240, 232);
+    color: #000000;
+    border: 2px solid #357577;
+
+    padding: 20px;
+    margin: 20px;
+    
+  
+}
+#car2
+{
+    
+    background-color: rgb(205, 240, 232);
+    color: #000000;
+    border: 2px solid #357577;
+
+    padding: 20px;
+    margin: 20px;
+    
+  
+    
+}
+#car3
+{
+
+    background-color: rgb(205, 240, 232);
+    color: #000000;
+    border: 2px solid #357577;
+  
+    padding: 20px;
+    margin: 20px;
+}
+
+
+#c1
+{
+    
+    background-color: rgb(205, 240, 232);
+    color: #000000;
+    border: 2px solid #357577;
+
+    padding: 20px;
+    margin: 20px;
+}
+#c2
+{
+    
+    background-color: rgb(205, 240, 232);
+    color: #000000;
+    border: 2px solid #357577;
+   
+    padding: 20px;
+    margin: 20px;
+    
+}
+#c3
+{
+    
+    background-color: rgb(205, 240, 232);
+    color: #000000;
+    border: 2px solid #357577;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+}
+
+
+#b1
+{
+  
+    background-color: rgb(43, 67, 145);
+    border-radius: 10px;
+    
+}
+#b2
+{
+  
+    background-color: rgb(43, 67, 145);
+    border-radius: 10px;
+    
+}
+.icons
+{
+    text-align: center;
+}
